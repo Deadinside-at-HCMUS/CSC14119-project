@@ -16,4 +16,4 @@ Working Plan: [Trello](https://trello.com/b/OZv1cijH/main)
 [TMDB](https://developer.themoviedb.org/docs)
 
 *2. Deploy Model:*
-[App](#https://i2ds-movie-recommendation-project.streamlit.app/)
+[App](https://i2ds-movie-recommendation-project.streamlit.app/)
