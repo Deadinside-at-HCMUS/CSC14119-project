@@ -18,7 +18,7 @@ Working Plan: [Trello](https://trello.com/b/OZv1cijH/main)
 2. Deploy Model:
 [App](https://i2ds-movie-recommendation-project.streamlit.app/)
 
-3. Presentation Slides:
+3. Presentation:
 [Slide](https://drive.google.com/file/d/1tH2rhpB4L-U1tXbTB-YRQrfJPZ-EyHTz/view?usp=sharing)
 
 ## III. Usage:
