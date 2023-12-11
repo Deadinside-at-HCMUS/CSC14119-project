@@ -1,6 +1,6 @@
 csv>=1.0
 requests>=2.31.0
-pandas>-1.5.3
+pandas>=1.5.3
 os
 ast
 re
