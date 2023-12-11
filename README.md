@@ -21,18 +21,19 @@ Working Plan: [Trello](https://trello.com/b/OZv1cijH/main)
 ## III. Usage:
 Make sure you have [Python3](https://www.python.org/downloads/), [Git](https://git-scm.com/downloads) and [Pip](https://pypi.org/project/pip/) installed.
 
-Clone the Git Repository:
+1. Clone the Git Repository:
 ```
 git clone https://github.com/Deadinside-at-HCMUS/CSC14119-project
 ```
 Or you can click on Code -> Download ZIP.
 
-Install the requirement packages:
+2. Install the requirement packages:
 ```
 pip3 install -r requirement.txt
 ```
+3. Run all cells in the Notebook.ipynb
 
-Run the Streamlit App:
+4. Run the Streamlit App:
 ```
 streamlit run App.py
 ```
