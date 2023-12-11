@@ -12,11 +12,14 @@ StudentID|Full Name
 Working Plan: [Trello](https://trello.com/b/OZv1cijH/main)
 
 ## II. Project information:
-*1. API:*
+1. API:
 [TMDB](https://developer.themoviedb.org/docs)
 
-*2. Deploy Model:*
+2. Deploy Model:
 [App](https://i2ds-movie-recommendation-project.streamlit.app/)
+
+3. Presentation Slides:
+[Slide](https://drive.google.com/file/d/1tH2rhpB4L-U1tXbTB-YRQrfJPZ-EyHTz/view?usp=sharing)
 
 ## III. Usage:
 Make sure you have [Python3](https://www.python.org/downloads/), [Git](https://git-scm.com/downloads) and [Pip](https://pypi.org/project/pip/) installed.
