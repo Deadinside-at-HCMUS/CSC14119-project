@@ -18,7 +18,7 @@ Working Plan: [Trello](https://trello.com/b/OZv1cijH/main)
 *2. Deploy Model:*
 [App](https://i2ds-movie-recommendation-project.streamlit.app/)
 
-## III.Usage
+## III. Usage:
 Make sure you have [Python3](https://www.python.org/downloads/), [Git](https://git-scm.com/downloads) and [Pip](https://pypi.org/project/pip/) installed.
 
 Clone the Git Repository:
