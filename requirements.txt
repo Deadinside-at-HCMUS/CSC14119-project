@@ -1,4 +1,4 @@
-csv>=1.0
+csv
 requests>=2.31.0
 pandas>=1.5.3
 os
